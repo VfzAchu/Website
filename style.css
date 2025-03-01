@@ -1,0 +1,172 @@
+/*body{
+    font-size:1.5em;
+    font-family: 'Roboto', sans-serif;
+}*/
+
+/*Counter program*/
+
+/*#l{
+    display: block;
+    font-size: 15em;
+    font-family: 'Roboto', sans-serif;
+    color: #00ff00;
+    text-align: center;
+    cursor: crosshair;
+}
+#d{
+    text-align: center;
+    display: block;
+}
+.buttons{
+    padding: 10px 20px;
+    font-size: 1em;
+    color: #f5f5f5;
+    background-color: rgb(142, 142, 253);
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+.buttons:hover{
+    background-color: rgb(0, 166, 255);
+}*/
+
+/*random number generator*/
+/*body{
+    font-size:1em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#l{
+    
+    display: block;
+    font-size: 2em;
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+    text-align: center;
+    cursor: crosshair;
+}
+#d{
+    text-align: center;
+    display: block;
+}
+.buttons{
+    padding: 10px 20px;
+    font-size: 1.5em;
+    text-align: center;
+    color: #fd0000;
+    background-color: #ebff7a;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.25s;
+}
+.buttons:hover{
+    background-color: #ff07d2;
+}
+.labelclass{
+    text-align: right;
+    display: block;
+    font-size: 1.5em;
+    font-family: 'Roboto', sans-serif;
+    color: #00f9e8;
+}*/
+
+
+
+
+
+
+
+
+
+
+/*Project*/
+body{
+    background-color: #d4fdfa;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    margin: auto;
+    height: 100vh;
+    background-size: cover;
+    background-image: url('Call of Duty Black Ops Victus Wallpaper.jpg');
+    background-position: center;
+    padding: 10px;
+}
+form{
+    flex-direction: column;
+    display: flex;
+    gap: 10px;
+    color: #7bff00;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+    box-sizing: border-box;
+    max-width: 400px;
+    gap: 10px;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.534);
+    background-image:url('download (2).jpeg');
+}
+.label10{
+    font-size: 1.5em;
+    font-weight: 100;
+    margin-bottom: 20px;
+}
+HEAD{
+    font-size: 2em;
+    text-decoration: double;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.input10{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: small;
+    background: #e1d3d33f;
+    display: inline;
+    font-size: medium;
+    font-weight: 80;
+    font-size: 1.3em;
+    border-radius: 6px;
+    border: 0;
+    padding: 5px 10px;
+    box-shadow:1px 1px 5px rgb(174, 255, 0);
+    transition: background-color 0.25s;
+    margin-bottom: 20px;
+}
+.input10:hover{
+    background-color: #f0f0f0;
+}
+.button10{
+    background-color: #edf1c4;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 5px 15px;
+    text-align: center;
+    display:inline;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 30px;
+    transition: background-color 0.25s;
+    box-shadow: 1px 1px 6px rgba(229, 255, 0, 0.734);
+    opacity: 5;;
+}
+.button10:hover{
+    background-color: #fff7a0;
+}
+.input10::placeholder{
+    font-size: 0.8em;
+    text-align: center;
+    font-weight: 100;
+    color: rgb(214, 233, 250);
+
+}
+.para10{
+    font-size: 1.5em;
+    font-weight: 100;
+    color: #ffffff;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
